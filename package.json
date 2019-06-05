@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-supervisor",
+  "version": "1.0.0",
+  "description": "Product sales by department",
+  "main": "bamazonSupervisor.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jernical/Bamazon-Supervisor.git"
+  },
+  "author": "Suraj A Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jernical/Bamazon-Supervisor/issues"
+  },
+  "homepage": "https://github.com/Jernical/Bamazon-Supervisor#readme"
+}
