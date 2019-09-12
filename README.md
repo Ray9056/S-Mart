@@ -1,4 +1,4 @@
-# Bamazon-Supervisor
+# S-Mart
 ## Step One (Clone the Repository) ##
 
 ```
