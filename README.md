@@ -33,3 +33,7 @@ S-Mart - CLI has a main menu that will take you to the three views "Products" "D
 # New Department
 
 [![Image from Gyazo](https://i.gyazo.com/62d6969190dc8b89aa972ffb6a3a0719.gif)](https://gyazo.com/62d6969190dc8b89aa972ffb6a3a0719)
+
+# Quit S-Mart CLI
+
+[![Image from Gyazo](https://i.gyazo.com/40bed67cbe60ff91229c16e132274f11.gif)](https://gyazo.com/40bed67cbe60ff91229c16e132274f11)
