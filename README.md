@@ -15,9 +15,7 @@
 
 S-Mart - CLI has a main menu that will take you to the three views "Products" "Department" "New Department". Each view is unique to the manager of S-Mart. The manager can change,add, and remove products from any department at S-Mart.
 
-## Products ##
-
-[![Image from Gyazo](https://i.gyazo.com/f32e228ecf1eab801962f69b7f0bc837.gif)](https://gyazo.com/f32e228ecf1eab801962f69b7f0bc837)
+## S-Mart Commands ##
 
 * View Product Sales by Department - Generates all departments with price, sales, and total profit.
 
@@ -25,12 +23,29 @@ S-Mart - CLI has a main menu that will take you to the three views "Products" "D
 
 * Quit - Allows you to exit the application.
 
+## Products ##
+
+* View Product Sales by Department - Generates all departments with price, sales, and total profit.
+
+Displays all products with product_name, product_sales, department_name, price, and stock_quantity
+
+[![Image from Gyazo](https://i.gyazo.com/f32e228ecf1eab801962f69b7f0bc837.gif)](https://gyazo.com/f32e228ecf1eab801962f69b7f0bc837)
+
+
 ## Departments ##
+
+* View Department Sales - Generates all departments with price, sales, and total profit.
+
+Displays all departments with department_name, over_head_costs, product_sales and total_profit
 
 [![Image from Gyazo](https://i.gyazo.com/25a2cc2539b97a06341421d25d392541.gif)](https://gyazo.com/25a2cc2539b97a06341421d25d392541)
 
 
 ## New Department ##
+
+* Create New Department - Lets the user create a new department for products with your choice of overhead costs and name
+
+
 
 [![Image from Gyazo](https://i.gyazo.com/62d6969190dc8b89aa972ffb6a3a0719.gif)](https://gyazo.com/62d6969190dc8b89aa972ffb6a3a0719)
 
