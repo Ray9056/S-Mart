@@ -15,7 +15,9 @@
 
 S-Mart - CLI has a main menu that will take you to the three views "Products" "Department" "New Department". Each view is unique to the manager of S-Mart. The manager can change,add, and remove products from any department at S-Mart.
 
-{Image here}
+# Products
+
+[![Image from Gyazo](https://i.gyazo.com/f32e228ecf1eab801962f69b7f0bc837.gif)](https://gyazo.com/f32e228ecf1eab801962f69b7f0bc837)
 
 * View Product Sales by Department - Generates all departments with price, sales, and total profit.
 
@@ -23,3 +25,11 @@ S-Mart - CLI has a main menu that will take you to the three views "Products" "D
 
 * Quit - Allows you to exit the application.
 
+# Departments
+
+[![Image from Gyazo](https://i.gyazo.com/25a2cc2539b97a06341421d25d392541.gif)](https://gyazo.com/25a2cc2539b97a06341421d25d392541)
+
+
+# New Department
+
+[![Image from Gyazo](https://i.gyazo.com/62d6969190dc8b89aa972ffb6a3a0719.gif)](https://gyazo.com/62d6969190dc8b89aa972ffb6a3a0719)
