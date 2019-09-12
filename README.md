@@ -2,24 +2,13 @@
  ## Overview
  Bamazon-CLI is a node command line interface that interacts with the Bamazon SQL Database. It allows the users to view and purchase items from the inventory. It allows Managers to edit and manage the products in the Bamazon database. Lastly it allows Supervisors to view departments and sales data for reports.
  
- ## Step One (Clone the Repository) ##
+ ## Instructions ##
  
 ```
-git clone https://github.com/Jernical/Bamazon-Supervisor.git
-```
-## Step Two (Install Packages!) ##
-
-```
-npm install
-```
-
-## Step Three (Change the mysql password!) ##
-Open the `bamazonSupervisor.js` and insert your database password in the field provided.
-
-## Step Four (Run the App!) ##
-
-```
-node bamazonSupervisor.js
+1. git clone https://github.com/Jernical/Bamazon-Supervisor.git
+2. npm install
+3. Open the `bamazonSupervisor.js` and insert your database password in the field provided.
+4. node bamazonSupervisor.js
 ```
 
 # Views
