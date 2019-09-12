@@ -11,10 +11,6 @@
 4. node bamazonSupervisor.js
 ```
 
-## Views ##
-
-S-Mart - CLI has a main menu that will take you to the three views "Products" "Department" "New Department". Each view is unique to the manager of S-Mart. The manager can change,add, and remove products from any department at S-Mart.
-
 ## S-Mart Commands ##
 
 * View Product Sales by Department - Generates all departments with price, sales, and total profit.
@@ -22,6 +18,11 @@ S-Mart - CLI has a main menu that will take you to the three views "Products" "D
 * Create New Department - Lets the user create a new department for products with your choice of overhead costs and name
 
 * Quit - Allows you to exit the application.
+
+## Views ##
+
+S-Mart - CLI has a main menu that will take you to the three views "Products" "Department" "New Department". Each view is unique to the manager of S-Mart. The manager can change,add, and remove products from any department at S-Mart.
+
 
 ## Products ##
 
