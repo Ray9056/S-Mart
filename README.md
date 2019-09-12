@@ -13,7 +13,7 @@
 
 # Views
 
-Bamazon - CLI has a main menu that will take you to the three views based on the current user "Customer", "Manager", and "Supervisor". Each view is unique to each type of user and some are locked out from normal use view passwords.
+S-Mart - CLI has a main menu that will take you to the three views "Products" "Department" "New Department". Each view is unique to the manager of S-Mart. The manager can change,add, and remove products from any department at S-Mart.
 
 {Image here}
 
