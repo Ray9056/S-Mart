@@ -1,12 +1,12 @@
 # S-Mart
  ## Overview
- Bamazon-CLI is a node command line interface that interacts with the Bamazon SQL Database. It allows the users to view and purchase items from the inventory. It allows Managers to edit and manage the products in the Bamazon database. Lastly it allows Supervisors to view departments and sales data for reports.
+ S-Mart CLI - is a node command line interface that interacts with the S-Mart SQL Database. It allows the users to view and purchase items from the inventory. It allows Managers to edit and manage the products in the S-Mart database. Lastly it allows Supervisors to view departments and sales data for reports.
  
  ## Instructions ##
  
 ```
-1. git clone https://github.com/Jernical/Bamazon-Supervisor.git
-2. npm install
+1. git clone https://github.com/Jernical/S-Mart.git
+2. cd S-Mart & npm install
 3. Open the `bamazonSupervisor.js` and insert your database password in the field provided.
 4. node bamazonSupervisor.js
 ```
