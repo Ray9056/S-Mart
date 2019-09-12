@@ -16,7 +16,7 @@ npm install
 ## Step Three (Change the mysql password!) ##
 Open the `bamazonSupervisor.js` and insert your database password in the field provided.
 
-## Step four (Run the App!) ##
+## Step Four (Run the App!) ##
 
 ```
 node bamazonSupervisor.js
