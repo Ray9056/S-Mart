@@ -26,7 +26,7 @@ S-Mart - CLI has a main menu that will take you to the three views "Products" "D
 
 ## Products ##
 
-View Product Sales by Department - Generates all departments with price, sales, and total profit.
+View Product Sales - Generates all products with price, sales, and total profit.
 
 * Displays all products with product_name, product_sales, department_name, price, and stock_quantity
 
