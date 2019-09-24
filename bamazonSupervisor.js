@@ -8,6 +8,7 @@ var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
+          // Insert database password below if you would like to run the CLI locally.
     password: "INSERT PASSWORD HERE",
     database: "bamazon"
 });
