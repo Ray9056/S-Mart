@@ -1,5 +1,5 @@
 {
-  "name": "s-mart",
+  "name": "bamazon-supervisor",
   "version": "1.0.0",
   "description": "Product sales by department",
   "main": "bamazonSupervisor.js",
