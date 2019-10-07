@@ -57,4 +57,5 @@ Exits the S-Mart CLI application
 
 [![Image from Gyazo](https://i.gyazo.com/40bed67cbe60ff91229c16e132274f11.gif)](https://gyazo.com/40bed67cbe60ff91229c16e132274f11)
 
+
 Copyright 2019 © [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
