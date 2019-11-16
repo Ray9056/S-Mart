@@ -3,6 +3,7 @@
  ## Overview
  S-Mart CLI - is a node command line interface that interacts with the S-Mart SQL Database. It allows the users to view and purchase items from the inventory. It allows Managers to edit and manage the products in the S-Mart database. Lastly it allows Supervisors to view departments and sales data for reports.
  
+ 
  ## Instructions ##
  
 ```
