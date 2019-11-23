@@ -60,3 +60,4 @@ Exits the S-Mart CLI application
 
 
 Copyright 2019 © [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
+
